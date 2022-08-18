@@ -1,16 +1,16 @@
-# char_project
+CHAT APP
 
-A new Flutter project.
+it's a chat application in which different users who logged into the app ,can chat to the other users , it's currently under developing stage but users can send messages
 
-## Getting Started
+FEATURES AND TECHNOLOGIES USED:- 
+ - Dart
+ - Getx
+ - Stateful Widgets
+ - Image picker
+ - Firebase
+ - Authentication
+ - Stream builder
+ - google sign in
+ - google sign-up
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
